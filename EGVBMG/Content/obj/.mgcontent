@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Arial_8.spritefont</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Georgia_16.spritefont</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Layer1.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Layer2.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Layer3.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Map.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Map1.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Map2.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Map2_IMG.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/menuscreen.png</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Motorwerk_16.spritefont</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Motorwerk_32.spritefont</File>
+    <File>A:/EcrosoGames/source_codes/2020/Monogame/ProjectGenesis/EGVBMG/Content/Symbol_16.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
